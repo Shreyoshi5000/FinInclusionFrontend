@@ -1,0 +1,32 @@
+{
+    "savings": {
+        "what is savings account": "A savings account is a basic type of bank account that allows you to deposit money, keep it safe, and withdraw funds, all while earning interest.",
+        "how to save money": "To save money: create a budget, reduce unnecessary expenses, set up automatic transfers to savings, pay off high-interest debt first, and look for additional income sources.",
+        "best savings schemes in india": "Popular savings schemes in India include Public Provident Fund (PPF), National Savings Certificate (NSC), Sukanya Samriddhi Yojana, Senior Citizens Savings Scheme, and bank Fixed Deposits."
+    },
+    "investment": {
+        "what is mutual fund": "A mutual fund is an investment vehicle that pools money from many investors to purchase securities like stocks and bonds, managed by professional fund managers.",
+        "how to start investing": "To start investing: set financial goals, build an emergency fund, understand your risk tolerance, research investment options, start with small amounts, and consider consulting a financial advisor.",
+        "best investment options in india": "Popular investment options in India include Equity Mutual Funds, Public Provident Fund, National Pension Scheme, Fixed Deposits, Real Estate, Gold, and Direct Equity investments."
+    },
+    "tax": {
+        "how to save tax in india": "Ways to save tax in India include investing in tax-saving instruments like PPF, ELSS, NSC, paying life insurance premiums, contributing to NPS, claiming HRA, home loan benefits, and medical insurance premiums.",
+        "what is income tax": "Income tax is a direct tax imposed by the government on income earned by individuals and businesses during a financial year.",
+        "tax slabs in india": "As of 2023, India has two tax regimes: Old regime with rates from 5% to 30% based on income slabs with deductions available, and New regime with lower rates but fewer deductions."
+    },
+    "loans": {
+        "how to get home loan": "To get a home loan: check your eligibility, compare lenders, prepare documents (ID proof, income proof, property documents), apply, undergo property valuation, and wait for approval and disbursement.",
+        "what is personal loan": "A personal loan is an unsecured loan provided by banks or financial institutions that can be used for any personal expenses like medical emergencies, home renovation, travel, or debt consolidation.",
+        "how to improve credit score": "To improve credit score: pay bills on time, reduce credit utilization ratio, don't close old credit accounts, limit new credit applications, regularly check your credit report, and dispute errors if any."
+    },
+    "insurance": {
+        "what is term insurance": "Term insurance is a pure life insurance product that provides financial coverage for a specified term. If the insured dies during the policy term, the nominee receives the death benefit.",
+        "how to choose health insurance": "Choose health insurance by considering coverage amount, network hospitals, waiting periods, sub-limits, co-payment clauses, claim settlement ratio, premium costs, and additional benefits.",
+        "types of insurance in india": "Common types of insurance in India include Life Insurance, Health Insurance, Motor Insurance, Travel Insurance, Home Insurance, and Critical Illness Insurance."
+    },
+    "general": {
+        "what is inflation": "Inflation is the rate at which the general level of prices for goods and services rises, causing purchasing power to fall.",
+        "how to make a budget": "To make a budget: calculate your monthly income, track expenses, categorize spending, set financial goals, allocate funds to categories, and review and adjust regularly.",
+        "what is financial planning": "Financial planning is the process of setting financial goals, creating a plan to achieve them, and regularly reviewing and adjusting the plan as needed."
+    }
+}
